@@ -6,6 +6,7 @@ import { FiArrowUpRight } from 'react-icons/fi'
 import { AiOutlineDown } from 'react-icons/ai'
 import ethLogo from '../assets/images/eth.png'
 import { TransactionContext } from '../context/TransactionContext'
+import Main from './MainContent'
 
 // STYLING
 const style = {
